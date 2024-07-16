@@ -70,6 +70,13 @@ If the room has hacker, it will make an extra kill
 - 鱼竿 - Background Painter
 </details>
 
+## 遇到问题/bug | Problem/bug encountered
+|你的态度<br>Your attitude|如何解决<br>How to resolve|
+|:---:|:---:|
+|不礼貌<br>Impolite|想都别想<br>Don't even think about it|
+|礼貌且问题的字数≤5<br>Attitude is polite and the question depicted ≤ 5 words|支付50元以解决<br>Spend 50$ to solve|
+|||
+
 ## 多语言样式声明 | Multilingual style declarations
 <details>
 <summary> 展开 </summary>
